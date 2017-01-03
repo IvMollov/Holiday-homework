@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\12. Next triangle number\bin\Debug\_12.Next_triangle_number.exe.config
+D:\Projects\Holiday homework\12. Next triangle number\bin\Debug\_12.Next_triangle_number.exe
+D:\Projects\Holiday homework\12. Next triangle number\bin\Debug\_12.Next_triangle_number.pdb
+D:\Projects\Holiday homework\12. Next triangle number\obj\Debug\12. Next triangle number.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\12. Next triangle number\obj\Debug\_12.Next_triangle_number.exe
+D:\Projects\Holiday homework\12. Next triangle number\obj\Debug\_12.Next_triangle_number.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\03. Longest chain\bin\Debug\_03.Longest_chain.exe.config
+D:\Projects\Holiday homework\03. Longest chain\bin\Debug\_03.Longest_chain.exe
+D:\Projects\Holiday homework\03. Longest chain\bin\Debug\_03.Longest_chain.pdb
+D:\Projects\Holiday homework\03. Longest chain\obj\Debug\03. Longest chain.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\03. Longest chain\obj\Debug\_03.Longest_chain.exe
+D:\Projects\Holiday homework\03. Longest chain\obj\Debug\_03.Longest_chain.pdb

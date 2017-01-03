@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\07. Pandigital\bin\Debug\_07.Pandigital.exe.config
+D:\Projects\Holiday homework\07. Pandigital\bin\Debug\_07.Pandigital.exe
+D:\Projects\Holiday homework\07. Pandigital\bin\Debug\_07.Pandigital.pdb
+D:\Projects\Holiday homework\07. Pandigital\obj\Debug\07. Pandigital.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\07. Pandigital\obj\Debug\_07.Pandigital.exe
+D:\Projects\Holiday homework\07. Pandigital\obj\Debug\_07.Pandigital.pdb

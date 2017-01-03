@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\14. Four-digit increasing sequence\bin\Debug\_14.Four_digit_increasing_sequence.exe.config
+D:\Projects\Holiday homework\14. Four-digit increasing sequence\bin\Debug\_14.Four_digit_increasing_sequence.exe
+D:\Projects\Holiday homework\14. Four-digit increasing sequence\bin\Debug\_14.Four_digit_increasing_sequence.pdb
+D:\Projects\Holiday homework\14. Four-digit increasing sequence\obj\Debug\14. Four-digit increasing sequence.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\14. Four-digit increasing sequence\obj\Debug\_14.Four_digit_increasing_sequence.exe
+D:\Projects\Holiday homework\14. Four-digit increasing sequence\obj\Debug\_14.Four_digit_increasing_sequence.pdb

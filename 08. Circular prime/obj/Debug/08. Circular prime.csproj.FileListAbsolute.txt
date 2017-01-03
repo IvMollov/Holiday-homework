@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\08. Circular prime\bin\Debug\_08.Circular_prime.exe.config
+D:\Projects\Holiday homework\08. Circular prime\bin\Debug\_08.Circular_prime.exe
+D:\Projects\Holiday homework\08. Circular prime\bin\Debug\_08.Circular_prime.pdb
+D:\Projects\Holiday homework\08. Circular prime\obj\Debug\08. Circular prime.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\08. Circular prime\obj\Debug\_08.Circular_prime.exe
+D:\Projects\Holiday homework\08. Circular prime\obj\Debug\_08.Circular_prime.pdb

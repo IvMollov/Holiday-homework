@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\17. Maximum digital sum\bin\Debug\_17.Maximum_digital_sum.exe.config
+D:\Projects\Holiday homework\17. Maximum digital sum\bin\Debug\_17.Maximum_digital_sum.exe
+D:\Projects\Holiday homework\17. Maximum digital sum\bin\Debug\_17.Maximum_digital_sum.pdb
+D:\Projects\Holiday homework\17. Maximum digital sum\obj\Debug\17. Maximum digital sum.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\17. Maximum digital sum\obj\Debug\_17.Maximum_digital_sum.exe
+D:\Projects\Holiday homework\17. Maximum digital sum\obj\Debug\_17.Maximum_digital_sum.pdb

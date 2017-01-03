@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\13. Four consecutive numbers\bin\Debug\_13.Four_consecutive_numbers.exe.config
+D:\Projects\Holiday homework\13. Four consecutive numbers\bin\Debug\_13.Four_consecutive_numbers.exe
+D:\Projects\Holiday homework\13. Four consecutive numbers\bin\Debug\_13.Four_consecutive_numbers.pdb
+D:\Projects\Holiday homework\13. Four consecutive numbers\obj\Debug\13. Four consecutive numbers.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\13. Four consecutive numbers\obj\Debug\_13.Four_consecutive_numbers.exe
+D:\Projects\Holiday homework\13. Four consecutive numbers\obj\Debug\_13.Four_consecutive_numbers.pdb

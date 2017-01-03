@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\04.Routes\bin\Debug\04.Routes.exe.config
+D:\Projects\Holiday homework\04.Routes\bin\Debug\04.Routes.exe
+D:\Projects\Holiday homework\04.Routes\bin\Debug\04.Routes.pdb
+D:\Projects\Holiday homework\04.Routes\obj\Debug\04.Routes.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\04.Routes\obj\Debug\04.Routes.exe
+D:\Projects\Holiday homework\04.Routes\obj\Debug\04.Routes.pdb

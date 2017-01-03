@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\06. Longest recurring cycle\bin\Debug\_06.Longest_recurring_cycle.exe.config
+D:\Projects\Holiday homework\06. Longest recurring cycle\bin\Debug\_06.Longest_recurring_cycle.exe
+D:\Projects\Holiday homework\06. Longest recurring cycle\bin\Debug\_06.Longest_recurring_cycle.pdb
+D:\Projects\Holiday homework\06. Longest recurring cycle\obj\Debug\06. Longest recurring cycle.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\06. Longest recurring cycle\obj\Debug\_06.Longest_recurring_cycle.exe
+D:\Projects\Holiday homework\06. Longest recurring cycle\obj\Debug\_06.Longest_recurring_cycle.pdb

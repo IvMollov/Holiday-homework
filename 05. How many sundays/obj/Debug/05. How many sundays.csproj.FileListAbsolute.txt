@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\05. How many sundays\bin\Debug\_05.How_many_sundays.exe.config
+D:\Projects\Holiday homework\05. How many sundays\bin\Debug\_05.How_many_sundays.exe
+D:\Projects\Holiday homework\05. How many sundays\bin\Debug\_05.How_many_sundays.pdb
+D:\Projects\Holiday homework\05. How many sundays\obj\Debug\05. How many sundays.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\05. How many sundays\obj\Debug\_05.How_many_sundays.exe
+D:\Projects\Holiday homework\05. How many sundays\obj\Debug\_05.How_many_sundays.pdb

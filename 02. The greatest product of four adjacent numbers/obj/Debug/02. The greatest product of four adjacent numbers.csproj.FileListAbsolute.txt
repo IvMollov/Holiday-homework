@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\02. The greatest product of four adjacent numbers\bin\Debug\_02.The_greatest_product_of_four_adjacent_numbers.exe.config
+D:\Projects\Holiday homework\02. The greatest product of four adjacent numbers\bin\Debug\_02.The_greatest_product_of_four_adjacent_numbers.exe
+D:\Projects\Holiday homework\02. The greatest product of four adjacent numbers\bin\Debug\_02.The_greatest_product_of_four_adjacent_numbers.pdb
+D:\Projects\Holiday homework\02. The greatest product of four adjacent numbers\obj\Debug\_02.The_greatest_product_of_four_adjacent_numbers.exe
+D:\Projects\Holiday homework\02. The greatest product of four adjacent numbers\obj\Debug\_02.The_greatest_product_of_four_adjacent_numbers.pdb
+D:\Projects\Holiday homework\02. The greatest product of four adjacent numbers\obj\Debug\02. The greatest product of four adjacent numbers.csprojResolveAssemblyReference.cache

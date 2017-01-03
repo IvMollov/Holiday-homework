@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\15. Smallest positive integer 2x, 3x, 4x, 5x, 6x\bin\Debug\_15.Smallest_positive_integer_2x__3x__4x__5x__6x.exe.config
+D:\Projects\Holiday homework\15. Smallest positive integer 2x, 3x, 4x, 5x, 6x\bin\Debug\_15.Smallest_positive_integer_2x__3x__4x__5x__6x.exe
+D:\Projects\Holiday homework\15. Smallest positive integer 2x, 3x, 4x, 5x, 6x\bin\Debug\_15.Smallest_positive_integer_2x__3x__4x__5x__6x.pdb
+D:\Projects\Holiday homework\15. Smallest positive integer 2x, 3x, 4x, 5x, 6x\obj\Debug\15. Smallest positive integer 2x, 3x, 4x, 5x, 6x.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\15. Smallest positive integer 2x, 3x, 4x, 5x, 6x\obj\Debug\_15.Smallest_positive_integer_2x__3x__4x__5x__6x.exe
+D:\Projects\Holiday homework\15. Smallest positive integer 2x, 3x, 4x, 5x, 6x\obj\Debug\_15.Smallest_positive_integer_2x__3x__4x__5x__6x.pdb
