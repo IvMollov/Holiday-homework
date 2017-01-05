@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\Holiday-homework\20. One-hundred rows\bin\Debug\_20.One_hundred_rows.exe.config
+D:\Projects\Holiday homework\Holiday-homework\20. One-hundred rows\bin\Debug\_20.One_hundred_rows.exe
+D:\Projects\Holiday homework\Holiday-homework\20. One-hundred rows\bin\Debug\_20.One_hundred_rows.pdb
+D:\Projects\Holiday homework\Holiday-homework\20. One-hundred rows\obj\Debug\20. One-hundred rows.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\Holiday-homework\20. One-hundred rows\obj\Debug\_20.One_hundred_rows.exe
+D:\Projects\Holiday homework\Holiday-homework\20. One-hundred rows\obj\Debug\_20.One_hundred_rows.pdb

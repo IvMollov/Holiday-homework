@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Player 1 wins .....hand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Maximum digital sum", "17. Maximum digital sum\17. Maximum digital sum.csproj", "{B2356DDB-A9AB-4868-B3DC-7CB6A9947FC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. One-hundred rows", "20. One-hundred rows\20. One-hundred rows.csproj", "{7DC94F57-4F94-4647-927A-D809CD82E54C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{B2356DDB-A9AB-4868-B3DC-7CB6A9947FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2356DDB-A9AB-4868-B3DC-7CB6A9947FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2356DDB-A9AB-4868-B3DC-7CB6A9947FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC94F57-4F94-4647-927A-D809CD82E54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC94F57-4F94-4647-927A-D809CD82E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC94F57-4F94-4647-927A-D809CD82E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC94F57-4F94-4647-927A-D809CD82E54C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

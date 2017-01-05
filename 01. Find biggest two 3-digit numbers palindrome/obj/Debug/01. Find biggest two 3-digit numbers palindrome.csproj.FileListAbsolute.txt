@@ -4,3 +4,6 @@ D:\Projects\Holiday homework\01. Find biggest two 3-digit numbers palindrome\bin
 D:\Projects\Holiday homework\01. Find biggest two 3-digit numbers palindrome\obj\Debug\01. Find biggest two 3-digit numbers palindrome.csprojResolveAssemblyReference.cache
 D:\Projects\Holiday homework\01. Find biggest two 3-digit numbers palindrome\obj\Debug\_01.Find_biggest_two_3_digit_numbers_palindrome.exe
 D:\Projects\Holiday homework\01. Find biggest two 3-digit numbers palindrome\obj\Debug\_01.Find_biggest_two_3_digit_numbers_palindrome.pdb
+D:\Projects\Holiday homework\Holiday-homework\01. Find biggest two 3-digit numbers palindrome\bin\Debug\_01.Find_biggest_two_3_digit_numbers_palindrome.exe.config
+D:\Projects\Holiday homework\Holiday-homework\01. Find biggest two 3-digit numbers palindrome\obj\Debug\_01.Find_biggest_two_3_digit_numbers_palindrome.exe
+D:\Projects\Holiday homework\Holiday-homework\01. Find biggest two 3-digit numbers palindrome\obj\Debug\_01.Find_biggest_two_3_digit_numbers_palindrome.pdb
