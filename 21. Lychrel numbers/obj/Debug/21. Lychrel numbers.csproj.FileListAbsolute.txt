@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\bin\Debug\_21.Lychrel_numbers.exe.config
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\bin\Debug\_21.Lychrel_numbers.exe
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\bin\Debug\_21.Lychrel_numbers.pdb
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\obj\Debug\21. Lychrel numbers.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\obj\Debug\_21.Lychrel_numbers.exe
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\obj\Debug\_21.Lychrel_numbers.pdb

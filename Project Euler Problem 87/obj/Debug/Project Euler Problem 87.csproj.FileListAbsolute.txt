@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 87\bin\Debug\Project Euler Problem 87.exe.config
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 87\bin\Debug\Project Euler Problem 87.exe
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 87\bin\Debug\Project Euler Problem 87.pdb
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 87\obj\Debug\Project Euler Problem 87.csprojResolveAssemblyReference.cache
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 87\obj\Debug\Project Euler Problem 87.exe
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 87\obj\Debug\Project Euler Problem 87.pdb

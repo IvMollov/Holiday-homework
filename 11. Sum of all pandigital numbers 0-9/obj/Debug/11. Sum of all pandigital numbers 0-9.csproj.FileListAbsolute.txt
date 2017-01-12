@@ -4,3 +4,9 @@ D:\Projects\Holiday homework\11. Sum of all pandigital numbers 0-9\bin\Debug\_11
 D:\Projects\Holiday homework\11. Sum of all pandigital numbers 0-9\obj\Debug\11. Sum of all pandigital numbers 0-9.csprojResolveAssemblyReference.cache
 D:\Projects\Holiday homework\11. Sum of all pandigital numbers 0-9\obj\Debug\_11.Sum_of_all_pandigital_numbers_0_9.exe
 D:\Projects\Holiday homework\11. Sum of all pandigital numbers 0-9\obj\Debug\_11.Sum_of_all_pandigital_numbers_0_9.pdb
+D:\Projects\Holiday homework\Holiday-homework\11. Sum of all pandigital numbers 0-9\bin\Debug\_11.Sum_of_all_pandigital_numbers_0_9.exe.config
+D:\Projects\Holiday homework\Holiday-homework\11. Sum of all pandigital numbers 0-9\obj\Debug\_11.Sum_of_all_pandigital_numbers_0_9.exe
+D:\Projects\Holiday homework\Holiday-homework\11. Sum of all pandigital numbers 0-9\obj\Debug\_11.Sum_of_all_pandigital_numbers_0_9.pdb
+D:\Projects\Holiday homework\Holiday-homework\11. Sum of all pandigital numbers 0-9\bin\Debug\_11.Sum_of_all_pandigital_numbers_0_9.exe
+D:\Projects\Holiday homework\Holiday-homework\11. Sum of all pandigital numbers 0-9\bin\Debug\_11.Sum_of_all_pandigital_numbers_0_9.pdb
+D:\Projects\Holiday homework\Holiday-homework\11. Sum of all pandigital numbers 0-9\obj\Debug\11. Sum of all pandigital numbers 0-9.csprojResolveAssemblyReference.cache

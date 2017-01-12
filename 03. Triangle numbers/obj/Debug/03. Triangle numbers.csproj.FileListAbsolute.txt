@@ -4,3 +4,6 @@ D:\Projects\Holiday homework\03. Triangle numbers\bin\Debug\_03.Triangle_numbers
 D:\Projects\Holiday homework\03. Triangle numbers\obj\Debug\03. Triangle numbers.csprojResolveAssemblyReference.cache
 D:\Projects\Holiday homework\03. Triangle numbers\obj\Debug\_03.Triangle_numbers.exe
 D:\Projects\Holiday homework\03. Triangle numbers\obj\Debug\_03.Triangle_numbers.pdb
+D:\Projects\Holiday homework\Holiday-homework\03. Triangle numbers\bin\Debug\_03.Triangle_numbers.exe.config
+D:\Projects\Holiday homework\Holiday-homework\03. Triangle numbers\obj\Debug\_03.Triangle_numbers.exe
+D:\Projects\Holiday homework\Holiday-homework\03. Triangle numbers\obj\Debug\_03.Triangle_numbers.pdb

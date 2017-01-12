@@ -1,0 +1,3 @@
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\bin\Debug\_21.Lychrel_numbers.exe.config
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\obj\Debug\_21.Lychrel_numbers.exe
+D:\Projects\Holiday homework\Holiday-homework\21. Lychrel numbers\obj\Debug\_21.Lychrel_numbers.pdb

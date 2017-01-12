@@ -41,6 +41,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Maximum digital sum", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. One-hundred rows", "20. One-hundred rows\20. One-hundred rows.csproj", "{7DC94F57-4F94-4647-927A-D809CD82E54C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Euler Problem 55", "21. Lychrel numbers\Project Euler Problem 55.csproj", "{CD43187D-D897-4C68-BA8F-60418DCEB37D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Euler Problem 87", "Project Euler Problem 87\Project Euler Problem 87.csproj", "{4DDF8F08-E1E9-44FD-A65C-A685B601EAC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Euler Problem 125", "Project Euler Problem 125\Project Euler Problem 125.csproj", "{9CE9F9E6-AA4C-4C7D-9375-955B6F5A5E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Euler Problem 145", "Project Euler Problem 145\Project Euler Problem 145.csproj", "{A008C0EB-C2E4-4923-A6D8-BAB6D90313C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +131,22 @@ Global
 		{7DC94F57-4F94-4647-927A-D809CD82E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC94F57-4F94-4647-927A-D809CD82E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC94F57-4F94-4647-927A-D809CD82E54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD43187D-D897-4C68-BA8F-60418DCEB37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD43187D-D897-4C68-BA8F-60418DCEB37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD43187D-D897-4C68-BA8F-60418DCEB37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD43187D-D897-4C68-BA8F-60418DCEB37D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDF8F08-E1E9-44FD-A65C-A685B601EAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDF8F08-E1E9-44FD-A65C-A685B601EAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDF8F08-E1E9-44FD-A65C-A685B601EAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDF8F08-E1E9-44FD-A65C-A685B601EAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE9F9E6-AA4C-4C7D-9375-955B6F5A5E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE9F9E6-AA4C-4C7D-9375-955B6F5A5E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE9F9E6-AA4C-4C7D-9375-955B6F5A5E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE9F9E6-AA4C-4C7D-9375-955B6F5A5E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A008C0EB-C2E4-4923-A6D8-BAB6D90313C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A008C0EB-C2E4-4923-A6D8-BAB6D90313C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A008C0EB-C2E4-4923-A6D8-BAB6D90313C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A008C0EB-C2E4-4923-A6D8-BAB6D90313C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

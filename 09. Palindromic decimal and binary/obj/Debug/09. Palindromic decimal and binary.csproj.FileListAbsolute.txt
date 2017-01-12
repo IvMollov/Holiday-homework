@@ -4,3 +4,6 @@ D:\Projects\Holiday homework\09. Palindromic decimal and binary\bin\Debug\_09.Pa
 D:\Projects\Holiday homework\09. Palindromic decimal and binary\obj\Debug\09. Palindromic decimal and binary.csprojResolveAssemblyReference.cache
 D:\Projects\Holiday homework\09. Palindromic decimal and binary\obj\Debug\_09.Palindromic_decimal_and_binary.exe
 D:\Projects\Holiday homework\09. Palindromic decimal and binary\obj\Debug\_09.Palindromic_decimal_and_binary.pdb
+D:\Projects\Holiday homework\Holiday-homework\09. Palindromic decimal and binary\bin\Debug\_09.Palindromic_decimal_and_binary.exe.config
+D:\Projects\Holiday homework\Holiday-homework\09. Palindromic decimal and binary\obj\Debug\_09.Palindromic_decimal_and_binary.exe
+D:\Projects\Holiday homework\Holiday-homework\09. Palindromic decimal and binary\obj\Debug\_09.Palindromic_decimal_and_binary.pdb

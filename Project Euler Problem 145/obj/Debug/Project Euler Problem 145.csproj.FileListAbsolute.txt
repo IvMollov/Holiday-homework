@@ -1,0 +1,5 @@
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 145\bin\Debug\Project Euler Problem 145.exe.config
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 145\bin\Debug\Project Euler Problem 145.exe
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 145\bin\Debug\Project Euler Problem 145.pdb
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 145\obj\Debug\Project Euler Problem 145.exe
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 145\obj\Debug\Project Euler Problem 145.pdb

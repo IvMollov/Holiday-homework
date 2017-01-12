@@ -1,0 +1,6 @@
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 125\bin\Debug\Project Euler Problem 125.exe.config
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 125\bin\Debug\Project Euler Problem 125.exe
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 125\bin\Debug\Project Euler Problem 125.pdb
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 125\obj\Debug\Project Euler Problem 125.exe
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 125\obj\Debug\Project Euler Problem 125.pdb
+D:\Projects\Holiday homework\Holiday-homework\Project Euler Problem 125\obj\Debug\Project Euler Problem 125.csprojResolveAssemblyReference.cache

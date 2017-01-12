@@ -4,3 +4,6 @@ D:\Projects\Holiday homework\10. Truncatable primes\bin\Debug\_10.Truncatable_pr
 D:\Projects\Holiday homework\10. Truncatable primes\obj\Debug\10. Truncatable primes.csprojResolveAssemblyReference.cache
 D:\Projects\Holiday homework\10. Truncatable primes\obj\Debug\_10.Truncatable_primes.exe
 D:\Projects\Holiday homework\10. Truncatable primes\obj\Debug\_10.Truncatable_primes.pdb
+D:\Projects\Holiday homework\Holiday-homework\10. Truncatable primes\bin\Debug\_10.Truncatable_primes.exe.config
+D:\Projects\Holiday homework\Holiday-homework\10. Truncatable primes\obj\Debug\_10.Truncatable_primes.exe
+D:\Projects\Holiday homework\Holiday-homework\10. Truncatable primes\obj\Debug\_10.Truncatable_primes.pdb
